@@ -71,6 +71,3 @@ Superstore Orders Dataset
 ## Author
 
 Yuvraj Chaudhary
-## Author
-
-Yuvraj Chaudhary
