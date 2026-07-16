@@ -1,43 +1,76 @@
 # 📊 Power BI Sales Dashboard
 
-## Overview
+Interactive Sales Dashboard built using Microsoft Power BI.
 
-This project is an interactive Power BI dashboard built using the Superstore Sales dataset.
+---
 
-## KPIs
+## Dashboard Preview
 
-- Total Sales
-- Total Profit
-- Total Quantity
-- Total Discount
+![Dashboard](dashboard.png)
+
+---
+
+## Project Overview
+
+This dashboard helps analyze business performance using sales data.
+
+### KPIs
+
+- 💰 Total Sales
+- 📈 Total Profit
+- 📦 Total Quantity
+- 💲 Total Discount
+
+---
 
 ## Visualizations
 
-- Map
-- Line Chart
-- Pie Chart
-- Funnel Chart
-- Stacked Bar Chart
-- Cards
-- Slicers
+- 🌎 Map Chart
+- 📊 Stacked Column Chart
+- 📈 Line Chart
+- 🥧 Pie Chart
+- 🔻 Funnel Chart
+- 🎯 KPI Cards
+- 🎛️ Interactive Slicers
 
-## Tools Used
-
-- Power BI
-- Excel
-- DAX
+---
 
 ## Dataset
 
-orders.csv
+Superstore Orders Dataset
+
+---
+
+## Tools Used
+
+- Microsoft Power BI
+- Microsoft Excel
+- DAX
+
+---
 
 ## Business Insights
 
-- West region generated the highest sales.
-- Chairs generated the highest sales.
-- Profit varies significantly by region.
-- Dashboard supports interactive filtering.
+- West region has the highest sales.
+- Chairs are the top-selling product category.
+- Profit differs significantly by region.
+- Interactive filters allow dynamic analysis.
 
+---
+
+## Files
+
+| File | Description |
+|------|-------------|
+| Sales_Dashboard.pbix | Power BI project |
+| Sales_Dashboard.pdf | Exported dashboard |
+| Superstore_Orders.csv | Dataset |
+
+---
+
+## Author
+
+Yuvraj Chaudhary
 ## Author
 
 Yuvraj Chaudhary
